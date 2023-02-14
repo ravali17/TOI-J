@@ -15,7 +15,7 @@ public class Reverse_String {
 	
 			public static void main(String[] args) {  
 			    System.out.println(Reverse_String.reverseWord("how are you?"));  
-			    System.out.println(Reverse_String.reverseWord("NEELAKANTAM"));    
+			    System.out.println(Reverse_String.reverseWord("RAVALI"));    
 			    }  
 			}  
 		 
